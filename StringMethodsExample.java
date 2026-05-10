@@ -46,7 +46,7 @@ public class StringMethodsExample {
 		System.out.println(data.contains("123b"));
 		
 		
-		// Method 9 : isEmpty()
+		// Method 9 : isEmpty()  // empty string
 		String data3="";
 		System.out.println(data3.isEmpty());
 
